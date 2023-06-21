@@ -239,7 +239,7 @@ An deploy it in Sepolia TestNet with Metamask by using the signed provided URL.
 
 Explore what you can do with this fantastic tool : Thirdweb !
 
-## Manipulate Smart Contract
+###  Manipulate Smart Contract
 
 Once the Smart contract is deployed (via thirdweb or another way),
 we can call its function with _cast_ tool provide by _foundry_
