@@ -1,6 +1,6 @@
 # Prerequisite/Installation
 
-## Forge
+## Foundry
 
 ```sh
 curl -L https://foundry.paradigm.xyz | bash
